@@ -1,0 +1,16 @@
+C:\Users\SAN\source\repos\7. QueueProgram\7. QueueProgram\bin\Debug\_7.QueueProgram.exe.config
+C:\Users\SAN\source\repos\7. QueueProgram\7. QueueProgram\bin\Debug\_7.QueueProgram.exe
+C:\Users\SAN\source\repos\7. QueueProgram\7. QueueProgram\bin\Debug\_7.QueueProgram.pdb
+C:\Users\SAN\source\repos\7. QueueProgram\7. QueueProgram\obj\Debug\7. QueueProgram.csproj.AssemblyReference.cache
+C:\Users\SAN\source\repos\7. QueueProgram\7. QueueProgram\obj\Debug\7. QueueProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\SAN\source\repos\7. QueueProgram\7. QueueProgram\obj\Debug\MainWindow.g.cs
+C:\Users\SAN\source\repos\7. QueueProgram\7. QueueProgram\obj\Debug\App.g.cs
+C:\Users\SAN\source\repos\7. QueueProgram\7. QueueProgram\obj\Debug\_7.QueueProgram_MarkupCompile.cache
+C:\Users\SAN\source\repos\7. QueueProgram\7. QueueProgram\obj\Debug\_7.QueueProgram_MarkupCompile.lref
+C:\Users\SAN\source\repos\7. QueueProgram\7. QueueProgram\obj\Debug\MainWindow.baml
+C:\Users\SAN\source\repos\7. QueueProgram\7. QueueProgram\obj\Debug\_7.QueueProgram.g.resources
+C:\Users\SAN\source\repos\7. QueueProgram\7. QueueProgram\obj\Debug\_7.QueueProgram.Properties.Resources.resources
+C:\Users\SAN\source\repos\7. QueueProgram\7. QueueProgram\obj\Debug\7. QueueProgram.csproj.GenerateResource.cache
+C:\Users\SAN\source\repos\7. QueueProgram\7. QueueProgram\obj\Debug\7. QueueProgram.csproj.CoreCompileInputs.cache
+C:\Users\SAN\source\repos\7. QueueProgram\7. QueueProgram\obj\Debug\_7.QueueProgram.exe
+C:\Users\SAN\source\repos\7. QueueProgram\7. QueueProgram\obj\Debug\_7.QueueProgram.pdb
