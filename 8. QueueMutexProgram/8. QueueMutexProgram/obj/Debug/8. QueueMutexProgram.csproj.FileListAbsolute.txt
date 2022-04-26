@@ -1,0 +1,16 @@
+C:\Users\SAN\source\repos\8. QueueMutexProgram\8. QueueMutexProgram\bin\Debug\_8.QueueMutexProgram.exe.config
+C:\Users\SAN\source\repos\8. QueueMutexProgram\8. QueueMutexProgram\bin\Debug\_8.QueueMutexProgram.exe
+C:\Users\SAN\source\repos\8. QueueMutexProgram\8. QueueMutexProgram\bin\Debug\_8.QueueMutexProgram.pdb
+C:\Users\SAN\source\repos\8. QueueMutexProgram\8. QueueMutexProgram\obj\Debug\8. QueueMutexProgram.csproj.AssemblyReference.cache
+C:\Users\SAN\source\repos\8. QueueMutexProgram\8. QueueMutexProgram\obj\Debug\8. QueueMutexProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\SAN\source\repos\8. QueueMutexProgram\8. QueueMutexProgram\obj\Debug\MainWindow.g.cs
+C:\Users\SAN\source\repos\8. QueueMutexProgram\8. QueueMutexProgram\obj\Debug\App.g.cs
+C:\Users\SAN\source\repos\8. QueueMutexProgram\8. QueueMutexProgram\obj\Debug\_8.QueueMutexProgram_MarkupCompile.cache
+C:\Users\SAN\source\repos\8. QueueMutexProgram\8. QueueMutexProgram\obj\Debug\_8.QueueMutexProgram_MarkupCompile.lref
+C:\Users\SAN\source\repos\8. QueueMutexProgram\8. QueueMutexProgram\obj\Debug\MainWindow.baml
+C:\Users\SAN\source\repos\8. QueueMutexProgram\8. QueueMutexProgram\obj\Debug\_8.QueueMutexProgram.g.resources
+C:\Users\SAN\source\repos\8. QueueMutexProgram\8. QueueMutexProgram\obj\Debug\_8.QueueMutexProgram.Properties.Resources.resources
+C:\Users\SAN\source\repos\8. QueueMutexProgram\8. QueueMutexProgram\obj\Debug\8. QueueMutexProgram.csproj.GenerateResource.cache
+C:\Users\SAN\source\repos\8. QueueMutexProgram\8. QueueMutexProgram\obj\Debug\8. QueueMutexProgram.csproj.CoreCompileInputs.cache
+C:\Users\SAN\source\repos\8. QueueMutexProgram\8. QueueMutexProgram\obj\Debug\_8.QueueMutexProgram.exe
+C:\Users\SAN\source\repos\8. QueueMutexProgram\8. QueueMutexProgram\obj\Debug\_8.QueueMutexProgram.pdb
