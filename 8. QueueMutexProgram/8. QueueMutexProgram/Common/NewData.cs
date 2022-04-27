@@ -8,7 +8,6 @@ namespace UsingQueueMutexProgram.Common
 {
     public class NewData
     {
-
         public int seq;
         public int data;
 
