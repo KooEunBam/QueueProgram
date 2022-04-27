@@ -142,9 +142,9 @@ namespace UsingQueueMutexProgram
         {
             if (status == Status.Idle) // Status가 Idle상태에서 버튼을 누르면
             {
-                status = Status.Start; // Status는 Start로 바뀌며
                 Dequeue_TextBox.Text = ""; // TextBox를 초기화 한다
                 Queue_TextBox.Text = "";
+                status = Status.Start; // Status는 Start로 바뀌며
             }
         }
 
