@@ -1,0 +1,16 @@
+C:\Users\SAN\source\repos\9. QueueMutexLockProgram\9. QueueMutexLockProgram\bin\Debug\_9.QueueMutexLockProgram.exe.config
+C:\Users\SAN\source\repos\9. QueueMutexLockProgram\9. QueueMutexLockProgram\bin\Debug\_9.QueueMutexLockProgram.exe
+C:\Users\SAN\source\repos\9. QueueMutexLockProgram\9. QueueMutexLockProgram\bin\Debug\_9.QueueMutexLockProgram.pdb
+C:\Users\SAN\source\repos\9. QueueMutexLockProgram\9. QueueMutexLockProgram\obj\Debug\9. QueueMutexLockProgram.csproj.AssemblyReference.cache
+C:\Users\SAN\source\repos\9. QueueMutexLockProgram\9. QueueMutexLockProgram\obj\Debug\9. QueueMutexLockProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\SAN\source\repos\9. QueueMutexLockProgram\9. QueueMutexLockProgram\obj\Debug\MainWindow.g.cs
+C:\Users\SAN\source\repos\9. QueueMutexLockProgram\9. QueueMutexLockProgram\obj\Debug\App.g.cs
+C:\Users\SAN\source\repos\9. QueueMutexLockProgram\9. QueueMutexLockProgram\obj\Debug\_9.QueueMutexLockProgram_MarkupCompile.cache
+C:\Users\SAN\source\repos\9. QueueMutexLockProgram\9. QueueMutexLockProgram\obj\Debug\_9.QueueMutexLockProgram_MarkupCompile.lref
+C:\Users\SAN\source\repos\9. QueueMutexLockProgram\9. QueueMutexLockProgram\obj\Debug\MainWindow.baml
+C:\Users\SAN\source\repos\9. QueueMutexLockProgram\9. QueueMutexLockProgram\obj\Debug\_9.QueueMutexLockProgram.g.resources
+C:\Users\SAN\source\repos\9. QueueMutexLockProgram\9. QueueMutexLockProgram\obj\Debug\_9.QueueMutexLockProgram.Properties.Resources.resources
+C:\Users\SAN\source\repos\9. QueueMutexLockProgram\9. QueueMutexLockProgram\obj\Debug\9. QueueMutexLockProgram.csproj.GenerateResource.cache
+C:\Users\SAN\source\repos\9. QueueMutexLockProgram\9. QueueMutexLockProgram\obj\Debug\9. QueueMutexLockProgram.csproj.CoreCompileInputs.cache
+C:\Users\SAN\source\repos\9. QueueMutexLockProgram\9. QueueMutexLockProgram\obj\Debug\_9.QueueMutexLockProgram.exe
+C:\Users\SAN\source\repos\9. QueueMutexLockProgram\9. QueueMutexLockProgram\obj\Debug\_9.QueueMutexLockProgram.pdb
