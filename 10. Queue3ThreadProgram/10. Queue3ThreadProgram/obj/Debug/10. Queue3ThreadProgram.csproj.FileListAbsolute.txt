@@ -1,0 +1,16 @@
+C:\Users\SAN\source\repos\10. Queue3ThreadProgram\10. Queue3ThreadProgram\bin\Debug\_10.Queue3ThreadProgram.exe.config
+C:\Users\SAN\source\repos\10. Queue3ThreadProgram\10. Queue3ThreadProgram\bin\Debug\_10.Queue3ThreadProgram.exe
+C:\Users\SAN\source\repos\10. Queue3ThreadProgram\10. Queue3ThreadProgram\bin\Debug\_10.Queue3ThreadProgram.pdb
+C:\Users\SAN\source\repos\10. Queue3ThreadProgram\10. Queue3ThreadProgram\obj\Debug\10. Queue3ThreadProgram.csproj.AssemblyReference.cache
+C:\Users\SAN\source\repos\10. Queue3ThreadProgram\10. Queue3ThreadProgram\obj\Debug\10. Queue3ThreadProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\SAN\source\repos\10. Queue3ThreadProgram\10. Queue3ThreadProgram\obj\Debug\MainWindow.g.cs
+C:\Users\SAN\source\repos\10. Queue3ThreadProgram\10. Queue3ThreadProgram\obj\Debug\App.g.cs
+C:\Users\SAN\source\repos\10. Queue3ThreadProgram\10. Queue3ThreadProgram\obj\Debug\_10.Queue3ThreadProgram_MarkupCompile.cache
+C:\Users\SAN\source\repos\10. Queue3ThreadProgram\10. Queue3ThreadProgram\obj\Debug\_10.Queue3ThreadProgram_MarkupCompile.lref
+C:\Users\SAN\source\repos\10. Queue3ThreadProgram\10. Queue3ThreadProgram\obj\Debug\MainWindow.baml
+C:\Users\SAN\source\repos\10. Queue3ThreadProgram\10. Queue3ThreadProgram\obj\Debug\_10.Queue3ThreadProgram.g.resources
+C:\Users\SAN\source\repos\10. Queue3ThreadProgram\10. Queue3ThreadProgram\obj\Debug\_10.Queue3ThreadProgram.Properties.Resources.resources
+C:\Users\SAN\source\repos\10. Queue3ThreadProgram\10. Queue3ThreadProgram\obj\Debug\10. Queue3ThreadProgram.csproj.GenerateResource.cache
+C:\Users\SAN\source\repos\10. Queue3ThreadProgram\10. Queue3ThreadProgram\obj\Debug\10. Queue3ThreadProgram.csproj.CoreCompileInputs.cache
+C:\Users\SAN\source\repos\10. Queue3ThreadProgram\10. Queue3ThreadProgram\obj\Debug\_10.Queue3ThreadProgram.exe
+C:\Users\SAN\source\repos\10. Queue3ThreadProgram\10. Queue3ThreadProgram\obj\Debug\_10.Queue3ThreadProgram.pdb
