@@ -1,0 +1,16 @@
+C:\Users\SAN\source\repos\11. Queue3ThreadMutexProgram\11. Queue3ThreadMutexProgram\bin\Debug\_11.Queue3ThreadMutexProgram.exe.config
+C:\Users\SAN\source\repos\11. Queue3ThreadMutexProgram\11. Queue3ThreadMutexProgram\bin\Debug\_11.Queue3ThreadMutexProgram.exe
+C:\Users\SAN\source\repos\11. Queue3ThreadMutexProgram\11. Queue3ThreadMutexProgram\bin\Debug\_11.Queue3ThreadMutexProgram.pdb
+C:\Users\SAN\source\repos\11. Queue3ThreadMutexProgram\11. Queue3ThreadMutexProgram\obj\Debug\11. Queue3ThreadMutexProgram.csproj.AssemblyReference.cache
+C:\Users\SAN\source\repos\11. Queue3ThreadMutexProgram\11. Queue3ThreadMutexProgram\obj\Debug\11. Queue3ThreadMutexProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\SAN\source\repos\11. Queue3ThreadMutexProgram\11. Queue3ThreadMutexProgram\obj\Debug\MainWindow.g.cs
+C:\Users\SAN\source\repos\11. Queue3ThreadMutexProgram\11. Queue3ThreadMutexProgram\obj\Debug\App.g.cs
+C:\Users\SAN\source\repos\11. Queue3ThreadMutexProgram\11. Queue3ThreadMutexProgram\obj\Debug\_11.Queue3ThreadMutexProgram_MarkupCompile.cache
+C:\Users\SAN\source\repos\11. Queue3ThreadMutexProgram\11. Queue3ThreadMutexProgram\obj\Debug\_11.Queue3ThreadMutexProgram_MarkupCompile.lref
+C:\Users\SAN\source\repos\11. Queue3ThreadMutexProgram\11. Queue3ThreadMutexProgram\obj\Debug\MainWindow.baml
+C:\Users\SAN\source\repos\11. Queue3ThreadMutexProgram\11. Queue3ThreadMutexProgram\obj\Debug\_11.Queue3ThreadMutexProgram.g.resources
+C:\Users\SAN\source\repos\11. Queue3ThreadMutexProgram\11. Queue3ThreadMutexProgram\obj\Debug\_11.Queue3ThreadMutexProgram.Properties.Resources.resources
+C:\Users\SAN\source\repos\11. Queue3ThreadMutexProgram\11. Queue3ThreadMutexProgram\obj\Debug\11. Queue3ThreadMutexProgram.csproj.GenerateResource.cache
+C:\Users\SAN\source\repos\11. Queue3ThreadMutexProgram\11. Queue3ThreadMutexProgram\obj\Debug\11. Queue3ThreadMutexProgram.csproj.CoreCompileInputs.cache
+C:\Users\SAN\source\repos\11. Queue3ThreadMutexProgram\11. Queue3ThreadMutexProgram\obj\Debug\_11.Queue3ThreadMutexProgram.exe
+C:\Users\SAN\source\repos\11. Queue3ThreadMutexProgram\11. Queue3ThreadMutexProgram\obj\Debug\_11.Queue3ThreadMutexProgram.pdb
